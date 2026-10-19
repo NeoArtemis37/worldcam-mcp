@@ -76,13 +76,18 @@ claude mcp add worldcam node /path/to/worldcam-mcp/dist/index.js
 
 ## Tools
 
+
 ### `get_current_location`
+<img width="1916" height="820" alt="Screenshot_20261019_051237" src="https://github.com/user-attachments/assets/9504fcfd-d05f-41b6-b78a-66fa2f8b9e22" />
 
 Detect the current geographic location. Uses native WiFi-based positioning on macOS (CoreLocation) and Windows (WinRT Geolocator). Falls back to IP geolocation on other platforms.
 
 ### `search_cameras`
 
 Search for live cameras by location, category, or source.
+
+<img width="1854" height="793" alt="Screenshot_20261019_051224" src="https://github.com/user-attachments/assets/79435687-9add-4086-b824-b48ec71039ff" />
+<img width="1903" height="807" alt="Screenshot_20261019_051152" src="https://github.com/user-attachments/assets/ce37c203-0218-4985-aa99-9fe21e7d643d" />
 
 | Parameter | Type | Description |
 |-----------|------|-------------|
